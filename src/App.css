@@ -1,0 +1,16 @@
+#root {
+  text-align: center;
+}
+
+.App {
+  width: 90%;
+  margin-top: 30px;
+}
+
+.video-players {
+  height: 350px;
+}
+
+.timeline {
+  height: 300px;
+}
